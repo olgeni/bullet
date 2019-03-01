@@ -15,7 +15,7 @@
 {application, bullet, [
 	{description,
 		"Simple, reliable, efficient streaming for Cowboy."},
-	{vsn, "0.4.1"},
+	{vsn, git},
 	{modules, []},
 	{registered, []},
 	{applications, [
